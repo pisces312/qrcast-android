@@ -1,3 +1,9 @@
+> **本项目已合并至 [QRCast](https://github.com/pisces312/qrcast) monorepo。**
+> 后续开发请直接使用 qrcast 项目，内含 sender (Python) + receiver (Android)。
+>
+> **This project has been merged into [QRCast](https://github.com/pisces312/qrcast) monorepo.**
+> Please use the qrcast project going forward — it contains both sender (Python) and receiver (Android).
+
 # 码上通 (QRCast Android)
 
 通过二维码在设备间离线传输小文件的 Android 应用。
